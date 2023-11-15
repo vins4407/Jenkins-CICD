@@ -17,7 +17,7 @@ function App() {
         </a>
       </div>
       <h1>[ Vite + React ] App</h1>
-      <h1> CICD Pipeline using Jenkins/AWS/Docker/Node/ </h1>
+      <h1> CICD Pipeline using Jenkins/AWS/Docker/NodeJs/ </h1>
       <h1>Vinayak kesharwani</h1>
 
       
