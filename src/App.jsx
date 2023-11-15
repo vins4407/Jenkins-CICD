@@ -16,6 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
+      <h1>this is modified version 1</h1>
       <h1>[ Vite + React ] App</h1>
       <h1> CICD Pipeline using Jenkins/AWS/Docker/NodeJs/ </h1>
       <h1>Vinayak kesharwani</h1>
